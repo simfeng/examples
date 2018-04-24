@@ -5,3 +5,4 @@
 ------
 
 - qslider_single.py  pyqt5 实现的单滑块显示
+- opencv 视频保存
